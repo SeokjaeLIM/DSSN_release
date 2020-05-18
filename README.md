@@ -15,4 +15,4 @@ Seokjae Lim, Jin Kim and Wonjun Kim, **"Deep Spectral-Spatial Network for Single
 ![examples](./examples/results.png)
 
 ### Experimental results with state-of-the art methods on the Köhler dataset
-![examples](./examples/results2.png)
+![examples](./examples/results2.PNG)
