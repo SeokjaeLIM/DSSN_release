@@ -13,6 +13,7 @@ Seokjae Lim, Jin Kim and Wonjun Kim, **"Deep Spectral-Spatial Network for Single
 
 ### Experimental results with state-of-the art methods on the GOPRO dataset
 ![examples](./examples/results.png)
+Several results of single image deblurring. First row : input blurry images selected from the GOPRO dataset. Second row : deblurring results by Tao et al. Third row : deblurring result by Zhang et al. Fourth row : deblurring results by the proposed method. Note that blurred regions (red and yellow-colored rectangles) are enlarged for better view. Best views in colors.
 
 ### Experimental results with state-of-the art methods on the Köhler dataset
 ![examples](./examples/results2.PNG)
