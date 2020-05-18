@@ -1,4 +1,4 @@
-### DSSN_release
+### DSSN_release (the code is not polished, therefore we will update the polished version as soon as possible)
 This repository is a Pytorch implementation of the paper [**"Deep Spectral-Spatial Network for Single Image Deblurring"**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094296)
 
 Seokjae Lim, Jin Kim and [Wonjun Kim](https://sites.google.com/site/kudcvlab)  
@@ -28,5 +28,19 @@ Several results of single image deblurring. First column : input blurry images s
 * cuDNN (if CUDA available)
 
 ### Pretrained models
-You can download pretrained color-to-depth model
+You can download pretrained DSSN model
 * [Trained with GOPRO](https://drive.google.com/open?id=1zMUud-FvOjbW9jCpGzvh71p_SL6T_7r0)
+
+Note that you should place the weights in the ./data/final directory
+
+### Training
+
+* Deep Spectral-Spatial network training
+```bash
+python main_ULT.py n
+```
+## Testing 
+* Deep Spectral-Spatial network testing
+```bash
+python main_ULT.py t
+```
