@@ -26,3 +26,7 @@ Several results of single image deblurring. First column : input blurry images s
 * Ubuntu 16.04
 * CUDA 8 (if CUDA available)
 * cuDNN (if CUDA available)
+
+### Pretrained models
+You can download pretrained color-to-depth model
+* [Trained with GOPRO](https://drive.google.com/open?id=1zMUud-FvOjbW9jCpGzvh71p_SL6T_7r0)
