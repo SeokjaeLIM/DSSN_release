@@ -6,7 +6,7 @@ IEEE Signal Processing Letters
 
 When using this code in your research, please cite the following paper:  
 
-Seokjae Lim, Jin Kim and Wonjun Kim, **"Deep Spectral-Spatial Network for Single Image Deblurring,"** **IEEE Signal Processing Letters** vol. 27, pp. 835-839, May 2020.
+Seokjae Lim, Jin Kim and Wonjun Kim, **"Deep Spectral-Spatial Network for Single Image Deblurring,"** **IEEE Signal Processing Letters** vol. 27, no. 1, pp. 835-839, May 2020.
 
 ```  
 @ARTICLE{9094296,
@@ -15,7 +15,7 @@ journal={IEEE Signal Processing Letters},
 title={Deep Spectral-Spatial Network for Single Image Deblurring}, 
 year={2020},
 volume={27},
-number={},
+number={1},
 pages={835-839},}
 ```  
 ### Model architecture
