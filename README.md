@@ -41,7 +41,7 @@ Several results of single image deblurring. First column : input blurry images s
 You can download pretrained DSSN model
 * [Trained with GOPRO](https://drive.google.com/open?id=1zMUud-FvOjbW9jCpGzvh71p_SL6T_7r0)
 
-Note that you should place the weights in the ./data/final directory
+Note that you should place the weights in the ./data/model/ & test results are saved in the ./data/result/
 
 ### Training
 
