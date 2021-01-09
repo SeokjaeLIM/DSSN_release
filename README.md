@@ -1,7 +1,7 @@
 ### DSSN_release (we reuploaded the codes after errors are corrected)
 This repository is a Pytorch implementation of the paper [**"Deep Spectral-Spatial Network for Single Image Deblurring"**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094296)
 
-Seokjae Lim, Jin Kim and [Wonjun Kim](https://sites.google.com/site/kudcvlab)  
+Seokjae Lim, Jin Kim and [Wonjun Kim](https://sites.google.com/view/dcvl)  
 IEEE Signal Processing Letters
 
 When using this code in your research, please cite the following paper:  
